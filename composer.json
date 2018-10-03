@@ -1,0 +1,21 @@
+{
+  "name": "Greg5737/rr-php-helpers",
+  "version": "0.1",
+  "description": "Framework-agnostic php helper functions",
+  "license": "MIT",
+  "keywords": ["php"],
+  "authors": [
+    {
+      "name": "Rhythmic Rebellion",
+      "email": "gregallen5737@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3"
+  },
+  "autoload": {
+    "files": [
+      "helpers.php"
+    ]
+  }
+}
